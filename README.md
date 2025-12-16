@@ -1,2 +1,7 @@
 # C_GorbinosQuest
-C++ school project translated to C
+
+## How to Build
+```
+cc -o nob nob .c
+./nob
+```
