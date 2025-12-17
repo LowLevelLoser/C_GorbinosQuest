@@ -150,6 +150,7 @@ int main(int argc, char **argv) {
         if (!nob_rename(so_tmp_path, so_path)) return 1;
     }
 
+    nob_log(NOB_INFO, "Over 500 Hundred hours of mind pumping action available now !!!11!11!");
     nob_da_free(static_objs);
     nob_da_free(hot_objs);
     nob_da_free(src_files);
